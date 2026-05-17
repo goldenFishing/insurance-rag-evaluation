@@ -1,0 +1,88 @@
+{
+  "input_mode": "multi_file",
+  "file_count": 10,
+  "file_names": [
+    "台灣人壽e起趣旅行平安保險合併檔.pdf",
+    "富邦人壽e 旅行平安保險傷害醫療保險附約_1140917.pdf",
+    "富邦人壽悠遊保網路投保旅行平安保險_1140917.pdf",
+    "富邦人壽悠遊保網路投保旅行平安保險海外醫療專機運送附約(實物給付型)_1140101.pdf",
+    "富邦人壽新安心悠遊海外突發疾病醫療健康保險附約_1140917.pdf",
+    "新安東京海上產險-電子保單條款-TU-TR-國內(平安福).pdf",
+    "新安東京海上產險-電子保單條款-TU-TR-海外(平安福)-海外突發疾病險(不含法傳).pdf",
+    "新安東京海上產險-電子保單條款-TU1-TR1-海外(平安御守)-海外突發疾病險(不含法傳).pdf",
+    "新安東京海上產險-電子保單條款-TU2-TR2-海外(平安福)-海外突發疾病險(含法傳).pdf",
+    "新安東京海上產險-電子保單條款-TU3-TR3-海外(平安御守)-海外突發疾病險(含法傳).pdf"
+  ],
+  "companies": [
+    "台灣人壽",
+    "富邦人壽",
+    "新安東京海上產險"
+  ],
+  "company_count": 3,
+  "product_names": [
+    "台灣人壽e起趣旅行平安保險合併檔",
+    "富邦人壽e 旅行平安保險傷害醫療保險附約",
+    "富邦人壽悠遊保網路投保旅行平安保險",
+    "富邦人壽悠遊保網路投保旅行平安保險海外醫療專機運送附約(實物給付型)",
+    "富邦人壽新安心悠遊海外突發疾病醫療健康保險附約",
+    "新安東京海上產險-電子保單條款-TU-TR-國內(平安福)",
+    "新安東京海上產險-電子保單條款-TU-TR-海外(平安福)-海外突發疾病險(不含法傳)",
+    "新安東京海上產險-電子保單條款-TU1-TR1-海外(平安御守)-海外突發疾病險(不含法傳)",
+    "新安東京海上產險-電子保單條款-TU2-TR2-海外(平安福)-海外突發疾病險(含法傳)",
+    "新安東京海上產險-電子保單條款-TU3-TR3-海外(平安御守)-海外突發疾病險(含法傳)"
+  ],
+  "product_count": 10,
+  "plan_names": [
+    "e 旅行平安保險傷害醫療保險",
+    "e起趣旅行平安保險合併檔",
+    "悠遊保網路投保旅行平安保險",
+    "悠遊保網路投保旅行平安保險海外醫療專機運送",
+    "新安心悠遊海外突發疾病醫療健康保險",
+    "電子保單條款-TU-TR-國內(平安福)",
+    "電子保單條款-TU-TR-海外(平安福)-海外突發疾病險(不含法傳)",
+    "電子保單條款-TU1-TR1-海外(平安御守)-海外突發疾病險(不含法傳)",
+    "電子保單條款-TU2-TR2-海外(平安福)-海外突發疾病險(含法傳)",
+    "電子保單條款-TU3-TR3-海外(平安御守)-海外突發疾病險(含法傳)"
+  ],
+  "plan_count": 10,
+  "layout_profiles": [
+    "article_plain",
+    "chaptered_policy",
+    "fubon_bracketed"
+  ],
+  "layout_profile_count": 3,
+  "has_main_contract": true,
+  "has_rider": true,
+  "main_contract_count": 6,
+  "rider_count": 4,
+  "main_contracts": [
+    "台灣人壽e起趣旅行平安保險合併檔",
+    "富邦人壽悠遊保網路投保旅行平安保險",
+    "新安東京海上產險-電子保單條款-TU-TR-海外(平安福)-海外突發疾病險(不含法傳)",
+    "新安東京海上產險-電子保單條款-TU1-TR1-海外(平安御守)-海外突發疾病險(不含法傳)",
+    "新安東京海上產險-電子保單條款-TU2-TR2-海外(平安福)-海外突發疾病險(含法傳)",
+    "新安東京海上產險-電子保單條款-TU3-TR3-海外(平安御守)-海外突發疾病險(含法傳)"
+  ],
+  "riders": [
+    "富邦人壽e 旅行平安保險傷害醫療保險附約",
+    "富邦人壽悠遊保網路投保旅行平安保險海外醫療專機運送附約(實物給付型)",
+    "富邦人壽新安心悠遊海外突發疾病醫療健康保險附約",
+    "新安東京海上產險-電子保單條款-TU-TR-國內(平安福)"
+  ],
+  "has_multiple_companies": true,
+  "has_multiple_plans": true,
+  "fallback_file_count": 0,
+  "fallback_files": [],
+  "company_json_files": {
+    "台灣人壽": "outputs\\by_company\\台灣人壽.json",
+    "富邦人壽": "outputs\\by_company\\富邦人壽.json",
+    "新安東京海上產險": "outputs\\by_company\\新安東京海上產險.json"
+  },
+  "table_record_count": 45,
+  "tables_json_file": "outputs\\parsed_policy_tables.json",
+  "rag_text_jsonl": "outputs\\rag\\policy_rag_text_chunks.jsonl",
+  "rag_table_jsonl": "outputs\\rag\\policy_rag_table_chunks.jsonl",
+  "rag_company_json": "outputs\\rag\\policy_rag_company_index.json",
+  "rag_text_chunk_count": 1288,
+  "rag_table_chunk_count": 45
+}
