@@ -2,11 +2,11 @@
 
 ## 目錄
 
-* [1. 系統概述](https://github.com/goldenFishing/insurance-rag-evaluation/edit/main/README.md#1-%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%BF%B0)
-* [2. 文檔解析與 RAG 前處理模組](https://github.com/goldenFishing/insurance-rag-evaluation/edit/main/README.md#2-%E6%96%87%E6%AA%94%E8%A7%A3%E6%9E%90%E8%88%87-rag-%E5%89%8D%E8%99%95%E7%90%86%E6%A8%A1%E7%B5%84)
-* [3. 高級檢索生成管線與推論引擎](https://github.com/goldenFishing/insurance-rag-evaluation/edit/main/README.md#3-%E9%AB%98%E7%B4%9A%E6%AA%A2%E7%B4%A2%E7%94%9F%E6%88%90%E7%AE%A1%E7%B7%9A%E8%88%87%E6%8E%A8%E8%AB%96%E5%BC%95%E6%93%8E)
-* [4. 批次推論與 Ragas 評估資料集建構單元](https://github.com/goldenFishing/insurance-rag-evaluation/edit/main/README.md#4-%E6%89%B9%E6%AC%A1%E6%8E%A8%E8%AB%96%E8%88%87-ragas-%E8%A9%95%E4%BC%B0%E8%B3%87%E6%96%99%E9%9B%86%E5%BB%BA%E6%A7%8B%E5%96%AE%E5%85%83-batch-inference--ragas-dataset-alignment)
-* [5. RAG 框架量化評估單元](https://github.com/goldenFishing/insurance-rag-evaluation/edit/main/README.md#5-rag-%E6%A1%86%E6%9E%B6%E9%87%8F%E5%8C%96%E8%A9%95%E4%BC%B0%E5%96%AE%E5%85%83)
+* [1. 系統概述]
+* [2. 文檔解析與 RAG 前處理模組]
+* [3. 高級檢索生成管線與推論引擎]
+* [4. 批次推論與 Ragas 評估資料集建構單元]
+* [5. RAG 框架量化評估單元]
 
 ---
 
